@@ -1,0 +1,9 @@
+creating a react app:
+======================
+
+> npm create vite@latest .
+
+Generating random jwt secret:
+=============================
+
+> $ openssl rand -base64 32
